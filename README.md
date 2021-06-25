@@ -7,10 +7,12 @@ In this repository, we list the publications related to vision-language learning
 ## Image Captioning
 ### 2021
 ### 2020
-### 2019
-<a id="1">[1]</a> 
-Hossain, MD Zakir and Sohel, Ferdous and Shiratuddin, Mohd Fairuz and Laga, Hamid. A comprehensive survey of deep learning for image captioning.
-ACM Computing Surveys (CSUR), 2019.
+### 2019 
+1. [Hossain, MD Zakir and Sohel, Ferdous and Shiratuddin, Mohd Fairuz and Laga, Hamid. A comprehensive survey of deep learning for image captioning.
+ACM Computing Surveys (CSUR), 2019.](https://dl.acm.org/doi/abs/10.1145/3295748?casa_token=yC0B4ul8CVAAAAAA:y3QIHQS-Xg26IA6hAvSySU_XCKgVfH-OyE_2ejRczBsheExFjM94ApfsiZ7ME6aB8k3tXUT3JfwOL4M)
 ## Text-based Image Generation
+### 2021
+### 2020
+### 2019
 ## Visual Question Answering
 ## Pre-training
